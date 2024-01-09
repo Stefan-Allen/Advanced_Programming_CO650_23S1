@@ -1,0 +1,8 @@
+# ninja log v5
+15	461	7264901759799536	CMakeFiles/Client.dir/src/Customer.cpp.obj	3674ff6664b13a95
+21	753	7264901762697343	CMakeFiles/Client.dir/src/WinsockClient.cpp.obj	a45c0104a479970a
+12	464	7264901759819482	CMakeFiles/Client.dir/src/Order.cpp.obj	cc12cd46cb8d7bc3
+3	805	7264901763225911	CMakeFiles/Client.dir/main.cpp.obj	a227df14eb8a73c2
+9	466	7264901759839434	CMakeFiles/Client.dir/src/Menu.cpp.obj	2046ae4aa19603ac
+6	513	7264901760308193	CMakeFiles/Client.dir/src/MenuItems.cpp.obj	5120ee1c653c6376
+3	399	7264903098282279	CMakeFiles/Client.dir/src/Specials.cpp.obj	3b405d9588d00d81

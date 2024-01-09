@@ -1,0 +1,5 @@
+# ninja log v5
+0	1282	7263662278719911	CMakeFiles/Server.dir/server.cpp.obj	5ef7b96649c63233
+3	1224	7263663312376626	CMakeFiles/Server.dir/main.cpp.obj	d9d14682b14d62d
+1	88	7263663799147177	build.ninja	159f4516ee6c9fbb
+3	88	7263663800158984	Server.exe	c64b2a7d17e21b3
