@@ -1,0 +1,1 @@
+Made using clion, CMakeLists.txt is the configuration file used by CMake to build the project, CLion triggers the CMake to generates native build files (e.g., Makefiles on Unix-like systems, Visual Studio project files on Windows) based on the information in CMakeLists.txt.
