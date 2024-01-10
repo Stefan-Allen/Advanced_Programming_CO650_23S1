@@ -1,6 +1,6 @@
 Made using clion, CMakeLists.txt is the configuration file used by CMake to build the project, CLion triggers the CMake to generates native build files (e.g., Makefiles on Unix-like systems, Visual Studio project files on Windows) based on the information in CMakeLists.txt.
 
-#Client Output.
+Client Output.
 
 C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Client\cmake-build-debug\Client.exe
 Total Orders: 1
@@ -31,7 +31,7 @@ Total: $18.990500
 Process finished with exit code 0
 
 
-#Server Output 
+Server Output 
 
 C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Server\cmake-build-debug\Server.exe
 Successful
