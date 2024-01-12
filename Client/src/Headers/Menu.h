@@ -6,10 +6,10 @@
 #include <iomanip>
 #include <sstream>
 
-// Abstraction, menu item with a title and price.
+// Abstraction
 class Menu {
 public:
-    // The Menu class has a constructor that initializes its title and price members.
+    // Constructors
     Menu(const std::string &title, double price);
 
     // Encapsulation, Getter methods to access private data members.

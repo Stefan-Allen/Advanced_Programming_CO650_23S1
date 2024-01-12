@@ -1,10 +1,15 @@
 #include <iostream>
-#include "src/MenuItems.h"
-#include "src/WinsockClient.h"
+#include "src/Headers/MenuItems.h"
+#include "src/Headers/WinsockClient.h"
+#include "src/Headers/RegularOrder.h"
+#include "src/Headers/Order.h"
 
 int main() {
     // Instances of MenuItems, Menu, Specials, and Customer classes.
     MenuItems menu_items;
+
+    // Creating Customer instances
+    Customer customer1("John Doe", "john@gmail.com");
 
     // Adding Menu/Special Instances
     Menu menu1(std::string("Steak"), 19.99);
@@ -12,9 +17,6 @@ int main() {
     Menu menu3(std::string("Blueberry Lemonade"), 4.99);
 
     Specials special1("Special Soup", 9.99);
-
-    // Creating Customer instances
-    Customer customer1("John Doe", "john@gmail.com");
 
     // MenuItems class are called.
     menu_items.AddMenu(menu1);
@@ -27,18 +29,22 @@ int main() {
     // Add customers
     menu_items.AddCustomer(customer1);
 
-    // Overloaded PlaceOrderhandles Menu and Specials objects.
+    // Overloaded PlaceOrder handles Menu and Specials objects.
     menu_items.PlaceOrder(menu1, customer1, 1);
 
+    // Inheritance: RegularOrder inheriting from Order.
+    std::unique_ptr<RegularOrder> regularOrder = std::make_unique<RegularOrder>(&menu1, &customer1, 1, 0.05);
+
     // Displaying the total number of orders and inventory.
-    std::cout << "Total Orders: " << menu_items.GetTotalOrders() << "\n";
+    std::cout << "------------------------\nTotal Orders: " << menu_items.GetTotalOrders() << "\n" "------------------------\n";
 
-    // Displaying the inventory of menus and specials.
-    menu_items.DisplayInventory();
+    // Add the RegularOrder to the vector of orders
+    Order::GetOrders().emplace_back(regularOrder.get());
 
-    // Displaying detailed orders for customers.
-    menu_items.DisplayCustomerOrders(customer1);
-    menu_items.DisplayOrders(customer1);
+    // Explicitly using RegularOrder methods
+    std::cout << "RegularOrder Details:\n";
+    std::cout << regularOrder->DisplayOrderString();
+    std::cout << "Calculated Total: $" << regularOrder->CalculateTotal() << "\n";
 
     // server's IP address and port.
     WinsockClient winsockClient("127.0.0.1", 3011);
@@ -48,7 +54,7 @@ int main() {
         std::string customerOrders = menu_items.DisplayOrders(customer1);
 
         if (winsockClient.SendData(customerOrders)) {
-            std::cout << "Orders sent to the server:\n" << customerOrders << std::endl;
+            std::cout << "------------------------\nOrders sent to the server successfully.\n";
         } else {
             std::cerr << "Error sending orders to the server" << std::endl;
         }

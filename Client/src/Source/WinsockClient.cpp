@@ -1,4 +1,4 @@
-#include "WinsockClient.h"
+#include "../Headers/WinsockClient.h"
 #include <iostream>
 
 // Constructors, Used for initializing the state of WinsockClient.

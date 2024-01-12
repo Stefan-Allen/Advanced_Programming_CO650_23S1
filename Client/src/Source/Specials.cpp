@@ -1,7 +1,6 @@
-#include "Specials.h"
+#include "../Headers/Specials.h"
 #include <sstream>
 #include <iomanip>
-
 
 // Constructors, initializing of Specials objects.
 Specials::Specials(const std::string &name, double price)

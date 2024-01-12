@@ -52,44 +52,58 @@ build cmake_object_order_depends_target_Client: phony || CMakeFiles/Client.dir
 build CMakeFiles/Client.dir/main.cpp.obj: CXX_COMPILER__Client_unscanned_Debug C$:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Client/main.cpp || cmake_object_order_depends_target_Client
   DEP_FILE = CMakeFiles\Client.dir\main.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Client/src -IC:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Client/include
   OBJECT_DIR = CMakeFiles\Client.dir
   OBJECT_FILE_DIR = CMakeFiles\Client.dir
 
-build CMakeFiles/Client.dir/src/MenuItems.cpp.obj: CXX_COMPILER__Client_unscanned_Debug C$:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Client/src/MenuItems.cpp || cmake_object_order_depends_target_Client
-  DEP_FILE = CMakeFiles\Client.dir\src\MenuItems.cpp.obj.d
+build CMakeFiles/Client.dir/src/Source/MenuItems.cpp.obj: CXX_COMPILER__Client_unscanned_Debug C$:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Client/src/Source/MenuItems.cpp || cmake_object_order_depends_target_Client
+  DEP_FILE = CMakeFiles\Client.dir\src\Source\MenuItems.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Client/src -IC:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Client/include
   OBJECT_DIR = CMakeFiles\Client.dir
-  OBJECT_FILE_DIR = CMakeFiles\Client.dir\src
+  OBJECT_FILE_DIR = CMakeFiles\Client.dir\src\Source
 
-build CMakeFiles/Client.dir/src/Menu.cpp.obj: CXX_COMPILER__Client_unscanned_Debug C$:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Client/src/Menu.cpp || cmake_object_order_depends_target_Client
-  DEP_FILE = CMakeFiles\Client.dir\src\Menu.cpp.obj.d
+build CMakeFiles/Client.dir/src/Source/Menu.cpp.obj: CXX_COMPILER__Client_unscanned_Debug C$:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Client/src/Source/Menu.cpp || cmake_object_order_depends_target_Client
+  DEP_FILE = CMakeFiles\Client.dir\src\Source\Menu.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Client/src -IC:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Client/include
   OBJECT_DIR = CMakeFiles\Client.dir
-  OBJECT_FILE_DIR = CMakeFiles\Client.dir\src
+  OBJECT_FILE_DIR = CMakeFiles\Client.dir\src\Source
 
-build CMakeFiles/Client.dir/src/Order.cpp.obj: CXX_COMPILER__Client_unscanned_Debug C$:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Client/src/Order.cpp || cmake_object_order_depends_target_Client
-  DEP_FILE = CMakeFiles\Client.dir\src\Order.cpp.obj.d
+build CMakeFiles/Client.dir/src/Source/Order.cpp.obj: CXX_COMPILER__Client_unscanned_Debug C$:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Client/src/Source/Order.cpp || cmake_object_order_depends_target_Client
+  DEP_FILE = CMakeFiles\Client.dir\src\Source\Order.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Client/src -IC:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Client/include
   OBJECT_DIR = CMakeFiles\Client.dir
-  OBJECT_FILE_DIR = CMakeFiles\Client.dir\src
+  OBJECT_FILE_DIR = CMakeFiles\Client.dir\src\Source
 
-build CMakeFiles/Client.dir/src/Customer.cpp.obj: CXX_COMPILER__Client_unscanned_Debug C$:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Client/src/Customer.cpp || cmake_object_order_depends_target_Client
-  DEP_FILE = CMakeFiles\Client.dir\src\Customer.cpp.obj.d
+build CMakeFiles/Client.dir/src/Source/Customer.cpp.obj: CXX_COMPILER__Client_unscanned_Debug C$:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Client/src/Source/Customer.cpp || cmake_object_order_depends_target_Client
+  DEP_FILE = CMakeFiles\Client.dir\src\Source\Customer.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Client/src -IC:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Client/include
   OBJECT_DIR = CMakeFiles\Client.dir
-  OBJECT_FILE_DIR = CMakeFiles\Client.dir\src
+  OBJECT_FILE_DIR = CMakeFiles\Client.dir\src\Source
 
-build CMakeFiles/Client.dir/src/Specials.cpp.obj: CXX_COMPILER__Client_unscanned_Debug C$:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Client/src/Specials.cpp || cmake_object_order_depends_target_Client
-  DEP_FILE = CMakeFiles\Client.dir\src\Specials.cpp.obj.d
+build CMakeFiles/Client.dir/src/Source/Specials.cpp.obj: CXX_COMPILER__Client_unscanned_Debug C$:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Client/src/Source/Specials.cpp || cmake_object_order_depends_target_Client
+  DEP_FILE = CMakeFiles\Client.dir\src\Source\Specials.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Client/src -IC:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Client/include
   OBJECT_DIR = CMakeFiles\Client.dir
-  OBJECT_FILE_DIR = CMakeFiles\Client.dir\src
+  OBJECT_FILE_DIR = CMakeFiles\Client.dir\src\Source
 
-build CMakeFiles/Client.dir/src/WinsockClient.cpp.obj: CXX_COMPILER__Client_unscanned_Debug C$:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Client/src/WinsockClient.cpp || cmake_object_order_depends_target_Client
-  DEP_FILE = CMakeFiles\Client.dir\src\WinsockClient.cpp.obj.d
+build CMakeFiles/Client.dir/src/Source/WinsockClient.cpp.obj: CXX_COMPILER__Client_unscanned_Debug C$:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Client/src/Source/WinsockClient.cpp || cmake_object_order_depends_target_Client
+  DEP_FILE = CMakeFiles\Client.dir\src\Source\WinsockClient.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Client/src -IC:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Client/include
   OBJECT_DIR = CMakeFiles\Client.dir
-  OBJECT_FILE_DIR = CMakeFiles\Client.dir\src
+  OBJECT_FILE_DIR = CMakeFiles\Client.dir\src\Source
+
+build CMakeFiles/Client.dir/src/Source/RegularOrder.cpp.obj: CXX_COMPILER__Client_unscanned_Debug C$:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Client/src/Source/RegularOrder.cpp || cmake_object_order_depends_target_Client
+  DEP_FILE = CMakeFiles\Client.dir\src\Source\RegularOrder.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Client/src -IC:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Client/include
+  OBJECT_DIR = CMakeFiles\Client.dir
+  OBJECT_FILE_DIR = CMakeFiles\Client.dir\src\Source
 
 
 # =============================================================================
@@ -99,7 +113,7 @@ build CMakeFiles/Client.dir/src/WinsockClient.cpp.obj: CXX_COMPILER__Client_unsc
 #############################################
 # Link the executable Client.exe
 
-build Client.exe: CXX_EXECUTABLE_LINKER__Client_Debug CMakeFiles/Client.dir/main.cpp.obj CMakeFiles/Client.dir/src/MenuItems.cpp.obj CMakeFiles/Client.dir/src/Menu.cpp.obj CMakeFiles/Client.dir/src/Order.cpp.obj CMakeFiles/Client.dir/src/Customer.cpp.obj CMakeFiles/Client.dir/src/Specials.cpp.obj CMakeFiles/Client.dir/src/WinsockClient.cpp.obj
+build Client.exe: CXX_EXECUTABLE_LINKER__Client_Debug CMakeFiles/Client.dir/main.cpp.obj CMakeFiles/Client.dir/src/Source/MenuItems.cpp.obj CMakeFiles/Client.dir/src/Source/Menu.cpp.obj CMakeFiles/Client.dir/src/Source/Order.cpp.obj CMakeFiles/Client.dir/src/Source/Customer.cpp.obj CMakeFiles/Client.dir/src/Source/Specials.cpp.obj CMakeFiles/Client.dir/src/Source/WinsockClient.cpp.obj CMakeFiles/Client.dir/src/Source/RegularOrder.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lwsock32  -lws2_32  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Client.dir

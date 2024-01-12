@@ -1,4 +1,4 @@
 "C:\Users\Tig10\AppData\Local\Programs\CLion Nova\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/Tig10/AppData/Local/Programs/CLion Nova/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Client -B C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Client\cmake-build-debug
--- Configuring done (0.0s)
+-- Configuring done (0.1s)
 -- Generating done (0.0s)
 -- Build files have been written to: C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Client/cmake-build-debug

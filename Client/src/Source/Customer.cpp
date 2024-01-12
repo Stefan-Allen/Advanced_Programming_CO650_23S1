@@ -1,5 +1,5 @@
-#include "Customer.h"
-#include "Order.h"
+#include "../Headers/Customer.h"
+#include "../Headers/Order.h"
 
 // Constructor, Initialize name and email members.
 Customer::Customer(const std::string &name, const std::string &email)

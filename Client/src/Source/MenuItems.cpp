@@ -1,4 +1,4 @@
-#include "MenuItems.h"
+#include "../Headers/MenuItems.h"
 #include <iostream>
 
 // Static member totalOrders.
@@ -16,7 +16,7 @@ MenuItems::MenuItems() {
     processOrder = &MenuItems::CalculateTotal;
 }
 
-// Polymorphic Behaviour process orders and calculate total.
+// Polymorphic Behaviour: Process orders and calculate total.
 double MenuItems::CalculateTotal(const Order &order) const {
     double total = order.CalculateTotal();
     return total;

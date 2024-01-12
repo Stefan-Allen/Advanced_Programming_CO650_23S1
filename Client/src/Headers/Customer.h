@@ -7,7 +7,7 @@
 // Abstraction, Representing a customer with a name and email.
 class Customer {
 public:
-    // The Customer class has a constructor that initializes its name and email.
+    // Constructors
     Customer(const std::string &name, const std::string &email);
 
     // Encapsulation, Getter methods to access private data members.

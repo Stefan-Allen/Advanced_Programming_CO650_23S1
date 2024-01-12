@@ -8,6 +8,6 @@ CMake Deprecation Warning:
   use the cmake-file-api(7) to view CMake-generated project build trees.
 
 
--- Configuring done (0.1s)
+-- Configuring done (0.2s)
 -- Generating done (0.0s)
 -- Build files have been written to: C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug
