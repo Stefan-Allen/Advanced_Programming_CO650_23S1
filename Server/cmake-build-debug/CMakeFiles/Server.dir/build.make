@@ -96,101 +96,21 @@ CMakeFiles/Server.dir/src/WinsockServer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Server.dir/src/WinsockServer.cpp.s"
 	C:\Users\Tig10\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Server\src\WinsockServer.cpp -o CMakeFiles\Server.dir\src\WinsockServer.cpp.s
 
-CMakeFiles/Server.dir/src/Specials.cpp.obj: CMakeFiles/Server.dir/flags.make
-CMakeFiles/Server.dir/src/Specials.cpp.obj: C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Specials.cpp
-CMakeFiles/Server.dir/src/Specials.cpp.obj: CMakeFiles/Server.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Server\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Server.dir/src/Specials.cpp.obj"
-	C:\Users\Tig10\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Server.dir/src/Specials.cpp.obj -MF CMakeFiles\Server.dir\src\Specials.cpp.obj.d -o CMakeFiles\Server.dir\src\Specials.cpp.obj -c C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Server\src\Specials.cpp
-
-CMakeFiles/Server.dir/src/Specials.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Server.dir/src/Specials.cpp.i"
-	C:\Users\Tig10\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Server\src\Specials.cpp > CMakeFiles\Server.dir\src\Specials.cpp.i
-
-CMakeFiles/Server.dir/src/Specials.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Server.dir/src/Specials.cpp.s"
-	C:\Users\Tig10\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Server\src\Specials.cpp -o CMakeFiles\Server.dir\src\Specials.cpp.s
-
-CMakeFiles/Server.dir/src/Order.cpp.obj: CMakeFiles/Server.dir/flags.make
-CMakeFiles/Server.dir/src/Order.cpp.obj: C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Order.cpp
-CMakeFiles/Server.dir/src/Order.cpp.obj: CMakeFiles/Server.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Server\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Server.dir/src/Order.cpp.obj"
-	C:\Users\Tig10\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Server.dir/src/Order.cpp.obj -MF CMakeFiles\Server.dir\src\Order.cpp.obj.d -o CMakeFiles\Server.dir\src\Order.cpp.obj -c C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Server\src\Order.cpp
-
-CMakeFiles/Server.dir/src/Order.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Server.dir/src/Order.cpp.i"
-	C:\Users\Tig10\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Server\src\Order.cpp > CMakeFiles\Server.dir\src\Order.cpp.i
-
-CMakeFiles/Server.dir/src/Order.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Server.dir/src/Order.cpp.s"
-	C:\Users\Tig10\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Server\src\Order.cpp -o CMakeFiles\Server.dir\src\Order.cpp.s
-
-CMakeFiles/Server.dir/src/MenuItems.cpp.obj: CMakeFiles/Server.dir/flags.make
-CMakeFiles/Server.dir/src/MenuItems.cpp.obj: C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/MenuItems.cpp
-CMakeFiles/Server.dir/src/MenuItems.cpp.obj: CMakeFiles/Server.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Server\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Server.dir/src/MenuItems.cpp.obj"
-	C:\Users\Tig10\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Server.dir/src/MenuItems.cpp.obj -MF CMakeFiles\Server.dir\src\MenuItems.cpp.obj.d -o CMakeFiles\Server.dir\src\MenuItems.cpp.obj -c C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Server\src\MenuItems.cpp
-
-CMakeFiles/Server.dir/src/MenuItems.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Server.dir/src/MenuItems.cpp.i"
-	C:\Users\Tig10\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Server\src\MenuItems.cpp > CMakeFiles\Server.dir\src\MenuItems.cpp.i
-
-CMakeFiles/Server.dir/src/MenuItems.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Server.dir/src/MenuItems.cpp.s"
-	C:\Users\Tig10\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Server\src\MenuItems.cpp -o CMakeFiles\Server.dir\src\MenuItems.cpp.s
-
-CMakeFiles/Server.dir/src/Menu.cpp.obj: CMakeFiles/Server.dir/flags.make
-CMakeFiles/Server.dir/src/Menu.cpp.obj: C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Menu.cpp
-CMakeFiles/Server.dir/src/Menu.cpp.obj: CMakeFiles/Server.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Server\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Server.dir/src/Menu.cpp.obj"
-	C:\Users\Tig10\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Server.dir/src/Menu.cpp.obj -MF CMakeFiles\Server.dir\src\Menu.cpp.obj.d -o CMakeFiles\Server.dir\src\Menu.cpp.obj -c C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Server\src\Menu.cpp
-
-CMakeFiles/Server.dir/src/Menu.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Server.dir/src/Menu.cpp.i"
-	C:\Users\Tig10\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Server\src\Menu.cpp > CMakeFiles\Server.dir\src\Menu.cpp.i
-
-CMakeFiles/Server.dir/src/Menu.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Server.dir/src/Menu.cpp.s"
-	C:\Users\Tig10\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Server\src\Menu.cpp -o CMakeFiles\Server.dir\src\Menu.cpp.s
-
-CMakeFiles/Server.dir/src/Customer.cpp.obj: CMakeFiles/Server.dir/flags.make
-CMakeFiles/Server.dir/src/Customer.cpp.obj: C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Customer.cpp
-CMakeFiles/Server.dir/src/Customer.cpp.obj: CMakeFiles/Server.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Server\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Server.dir/src/Customer.cpp.obj"
-	C:\Users\Tig10\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Server.dir/src/Customer.cpp.obj -MF CMakeFiles\Server.dir\src\Customer.cpp.obj.d -o CMakeFiles\Server.dir\src\Customer.cpp.obj -c C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Server\src\Customer.cpp
-
-CMakeFiles/Server.dir/src/Customer.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Server.dir/src/Customer.cpp.i"
-	C:\Users\Tig10\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Server\src\Customer.cpp > CMakeFiles\Server.dir\src\Customer.cpp.i
-
-CMakeFiles/Server.dir/src/Customer.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Server.dir/src/Customer.cpp.s"
-	C:\Users\Tig10\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Server\src\Customer.cpp -o CMakeFiles\Server.dir\src\Customer.cpp.s
-
 # Object files for target Server
 Server_OBJECTS = \
 "CMakeFiles/Server.dir/main.cpp.obj" \
-"CMakeFiles/Server.dir/src/WinsockServer.cpp.obj" \
-"CMakeFiles/Server.dir/src/Specials.cpp.obj" \
-"CMakeFiles/Server.dir/src/Order.cpp.obj" \
-"CMakeFiles/Server.dir/src/MenuItems.cpp.obj" \
-"CMakeFiles/Server.dir/src/Menu.cpp.obj" \
-"CMakeFiles/Server.dir/src/Customer.cpp.obj"
+"CMakeFiles/Server.dir/src/WinsockServer.cpp.obj"
 
 # External object files for target Server
 Server_EXTERNAL_OBJECTS =
 
 Server.exe: CMakeFiles/Server.dir/main.cpp.obj
 Server.exe: CMakeFiles/Server.dir/src/WinsockServer.cpp.obj
-Server.exe: CMakeFiles/Server.dir/src/Specials.cpp.obj
-Server.exe: CMakeFiles/Server.dir/src/Order.cpp.obj
-Server.exe: CMakeFiles/Server.dir/src/MenuItems.cpp.obj
-Server.exe: CMakeFiles/Server.dir/src/Menu.cpp.obj
-Server.exe: CMakeFiles/Server.dir/src/Customer.cpp.obj
 Server.exe: CMakeFiles/Server.dir/build.make
 Server.exe: CMakeFiles/Server.dir/linkLibs.rsp
 Server.exe: CMakeFiles/Server.dir/objects1.rsp
 Server.exe: CMakeFiles/Server.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Server\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable Server.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Server\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Server.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Server.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

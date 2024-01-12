@@ -372,831 +372,6 @@ CMakeFiles/Server.dir/main.cpp.obj: C:/Users/Tig10/Documents/GitHub/Advanced_Pro
   C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/wtypesbase.h \
   C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/WinsockServer.h
 
-CMakeFiles/Server.dir/src/Customer.cpp.obj: C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Customer.cpp \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/binders.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bit \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/alloc_traits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocator.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/char_traits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/charconv.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/codecvt.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/concept_check.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cpp_type_traits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_forced.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_init_exception.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_defines.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functexcept.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functional_hash.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/invoke.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ios_base.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_conv.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets_nonio.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets_nonio.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/localefwd.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memory_resource.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memoryfwd.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/move.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/nested_exception.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/new_allocator.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream_insert.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/predefined_ops.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ptr_traits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/quoted_string.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/range_access.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/refwrap.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/sstream.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_abs.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algobase.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_bvector.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_construct.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_function.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_funcs.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_types.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_pair.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_uninitialized.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_vector.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf_iterator.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/string_view.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator_args.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/utility.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/vector.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cctype \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/clocale \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstddef \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdio \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdlib \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ctime \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwchar \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwctype \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/assertions.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/debug.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/exception \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/alloc_traits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/atomicity.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numeric_traits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/type_traits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iomanip \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ios \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/istream \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/locale \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/new \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ostream \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/sstream \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdlib.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/streambuf \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string_view \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/system_error \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/vector \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_base.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_inline.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/messages_members.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/time_members.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/_mingw.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/_mingw_mac.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/_mingw_off_t.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/_mingw_secapi.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/_mingw_stat64.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/_timeval.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/corecrt.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/corecrt_startup.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/crtdefs.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/ctype.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/errno.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/limits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/locale.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/malloc.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/process.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/pthread.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/pthread_compat.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/pthread_signal.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/pthread_time.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/pthread_unistd.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/signal.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/stddef.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/stdio.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/stdlib.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/swprintf.inl \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sys/timeb.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sys/types.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/time.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/vadefs.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/wchar.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/wctype.h \
-  C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Customer.h \
-  C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Menu.h \
-  C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Order.h \
-  C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Specials.h
-
-CMakeFiles/Server.dir/src/Menu.cpp.obj: C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Menu.cpp \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/binders.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bit \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/alloc_traits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocator.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/char_traits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/charconv.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/codecvt.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/concept_check.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cpp_type_traits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_forced.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_init_exception.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_defines.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functexcept.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functional_hash.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/invoke.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ios_base.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_conv.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets_nonio.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets_nonio.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/localefwd.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memory_resource.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memoryfwd.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/move.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/nested_exception.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/new_allocator.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream_insert.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/predefined_ops.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ptr_traits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/quoted_string.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/range_access.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/refwrap.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/sstream.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_abs.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algobase.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_construct.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_function.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_funcs.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_types.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_pair.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf_iterator.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/string_view.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator_args.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/utility.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cctype \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/clocale \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstddef \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdio \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdlib \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ctime \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwchar \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwctype \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/assertions.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/debug.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/exception \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/alloc_traits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/atomicity.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numeric_traits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/type_traits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iomanip \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ios \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/istream \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/locale \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/new \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ostream \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/sstream \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdlib.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/streambuf \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string_view \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/system_error \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_base.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_inline.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/messages_members.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/time_members.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/_mingw.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/_mingw_mac.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/_mingw_off_t.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/_mingw_secapi.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/_mingw_stat64.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/_timeval.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/corecrt.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/corecrt_startup.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/crtdefs.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/ctype.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/errno.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/limits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/locale.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/malloc.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/process.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/pthread.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/pthread_compat.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/pthread_signal.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/pthread_time.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/pthread_unistd.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/signal.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/stddef.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/stdio.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/stdlib.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/swprintf.inl \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sys/timeb.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sys/types.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/time.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/vadefs.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/wchar.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/wctype.h \
-  C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Menu.h
-
-CMakeFiles/Server.dir/src/MenuItems.cpp.obj: C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/MenuItems.cpp \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/auto_ptr.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/binders.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bit \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/align.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/alloc_traits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocated_ptr.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocator.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_base.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_lockfree_defines.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/char_traits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/charconv.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/codecvt.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/concept_check.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cpp_type_traits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_forced.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_init_exception.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_defines.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functexcept.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functional_hash.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/invoke.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ios_base.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_conv.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets_nonio.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets_nonio.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/localefwd.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memory_resource.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memoryfwd.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/move.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/nested_exception.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/new_allocator.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream_insert.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/predefined_ops.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ptr_traits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/quoted_string.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/range_access.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/refwrap.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr_atomic.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr_base.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/sstream.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_abs.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algobase.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_bvector.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_construct.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_function.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_funcs.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_types.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_pair.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_raw_storage_iter.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tempbuf.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_uninitialized.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_vector.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf_iterator.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/string_view.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unique_ptr.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator_args.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/utility.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/vector.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cctype \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/clocale \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstddef \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdio \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdlib \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ctime \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwchar \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwctype \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/assertions.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/debug.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/exception \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/aligned_buffer.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/alloc_traits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/atomicity.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/concurrence.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numeric_traits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/type_traits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iomanip \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ios \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iostream \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/istream \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/locale \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/memory \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/new \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ostream \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/execution_defs.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_memory_defs.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/sstream \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdlib.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/streambuf \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string_view \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/system_error \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/vector \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_base.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_inline.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/messages_members.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/time_members.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdint.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/_mingw.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/_mingw_mac.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/_mingw_off_t.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/_mingw_secapi.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/_mingw_stat64.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/_timeval.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/corecrt.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/corecrt_startup.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/crtdefs.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/ctype.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/errno.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/limits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/locale.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/malloc.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/process.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/pthread.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/pthread_compat.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/pthread_signal.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/pthread_time.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/pthread_unistd.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/signal.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/stddef.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/stdint.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/stdio.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/stdlib.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/swprintf.inl \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sys/timeb.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sys/types.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/time.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/vadefs.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/wchar.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/wctype.h \
-  C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Customer.h \
-  C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Menu.h \
-  C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/MenuItems.h \
-  C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Order.h \
-  C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Specials.h
-
-CMakeFiles/Server.dir/src/Order.cpp.obj: C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Order.cpp \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/binders.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bit \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/alloc_traits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocator.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/char_traits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/charconv.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/codecvt.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/concept_check.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cpp_type_traits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_forced.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_init_exception.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_defines.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functexcept.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functional_hash.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/invoke.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ios_base.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_conv.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets_nonio.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets_nonio.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/localefwd.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memory_resource.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memoryfwd.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/move.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/nested_exception.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/new_allocator.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream_insert.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/predefined_ops.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ptr_traits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/quoted_string.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/range_access.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/refwrap.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/sstream.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_abs.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algobase.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_bvector.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_construct.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_function.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_funcs.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_types.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_pair.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_uninitialized.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_vector.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf_iterator.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/string_view.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator_args.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/utility.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/vector.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cctype \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/clocale \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstddef \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdio \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdlib \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ctime \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwchar \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwctype \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/assertions.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/debug.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/exception \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/alloc_traits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/atomicity.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numeric_traits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/type_traits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iomanip \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ios \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iostream \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/istream \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/locale \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/new \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ostream \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/sstream \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdlib.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/streambuf \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string_view \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/system_error \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/vector \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_base.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_inline.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/messages_members.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/time_members.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/_mingw.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/_mingw_mac.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/_mingw_off_t.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/_mingw_secapi.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/_mingw_stat64.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/_timeval.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/corecrt.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/corecrt_startup.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/crtdefs.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/ctype.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/errno.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/limits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/locale.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/malloc.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/process.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/pthread.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/pthread_compat.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/pthread_signal.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/pthread_time.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/pthread_unistd.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/signal.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/stddef.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/stdio.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/stdlib.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/swprintf.inl \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sys/timeb.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sys/types.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/time.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/vadefs.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/wchar.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/wctype.h \
-  C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Customer.h \
-  C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Menu.h \
-  C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Order.h \
-  C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Specials.h
-
-CMakeFiles/Server.dir/src/Specials.cpp.obj: C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Specials.cpp \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/binders.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bit \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/alloc_traits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocator.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/char_traits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/charconv.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/codecvt.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/concept_check.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cpp_type_traits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_forced.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_init_exception.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_defines.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functexcept.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functional_hash.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/invoke.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ios_base.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_conv.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets_nonio.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets_nonio.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/localefwd.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memory_resource.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memoryfwd.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/move.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/nested_exception.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/new_allocator.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream_insert.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/predefined_ops.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ptr_traits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/quoted_string.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/range_access.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/refwrap.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/sstream.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_abs.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algobase.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_construct.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_function.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_funcs.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_types.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_pair.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf_iterator.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/string_view.tcc \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator_args.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/utility.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cctype \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/clocale \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstddef \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdio \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdlib \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ctime \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwchar \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwctype \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/assertions.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/debug.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/exception \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/alloc_traits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/atomicity.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numeric_traits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/type_traits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iomanip \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ios \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/istream \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/locale \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/new \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ostream \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/sstream \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdlib.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/streambuf \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string_view \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/system_error \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_base.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_inline.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/messages_members.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/time_members.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/_mingw.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/_mingw_mac.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/_mingw_off_t.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/_mingw_secapi.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/_mingw_stat64.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/_timeval.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/corecrt.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/corecrt_startup.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/crtdefs.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/ctype.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/errno.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/limits.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/locale.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/malloc.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/process.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/pthread.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/pthread_compat.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/pthread_signal.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/pthread_time.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/pthread_unistd.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/signal.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/stddef.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/stdio.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/stdlib.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/swprintf.inl \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sys/timeb.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sys/types.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/time.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/vadefs.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/wchar.h \
-  C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/wctype.h \
-  C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Specials.h
-
 CMakeFiles/Server.dir/src/WinsockServer.cpp.obj: C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/WinsockServer.cpp \
   C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/adxintrin.h \
   C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/ammintrin.h \
@@ -1598,8 +773,6 @@ C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/i
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512vbmi2vlintrin.h:
 
-C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/vector:
-
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/winver.h:
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/amxfp16intrin.h:
@@ -1700,8 +873,6 @@ C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-m
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512fp16intrin.h:
 
-C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Specials.cpp:
-
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h:
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512ifmaintrin.h:
@@ -1747,8 +918,6 @@ C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-m
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512vp2intersectintrin.h:
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/bmi2intrin.h:
-
-C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_base.h:
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512vpopcntdqintrin.h:
 
@@ -1823,8 +992,6 @@ C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/i
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/minwinbase.h:
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/range_access.h:
-
-C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/time_members.h:
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/refwrap.h:
 
@@ -1934,8 +1101,6 @@ C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/i
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple:
 
-C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_conv.h:
-
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits:
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h:
@@ -1971,8 +1136,6 @@ C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/i
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/emmintrin.h:
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/enqcmdintrin.h:
-
-C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Menu.h:
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/systemtopologyapi.h:
 
@@ -2064,8 +1227,6 @@ C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-m
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdint.h:
 
-C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr_base.h:
-
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/rpcnsip.h:
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/rpcndr.h:
@@ -2114,13 +1275,9 @@ C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-m
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/_mingw_mac.h:
 
-C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tempbuf.h:
-
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/_mingw_off_t.h:
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/_mingw_secapi.h:
-
-C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/vector.tcc:
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/_mingw_stat64.h:
 
@@ -2144,8 +1301,6 @@ C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-m
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/bcrypt.h:
 
-C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets_nonio.tcc:
-
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/bemapiset.h:
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/combaseapi.h:
@@ -2153,8 +1308,6 @@ C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/i
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/vadefs.h:
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/concurrencysal.h:
-
-C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_raw_storage_iter.h:
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/dlgs.h:
 
@@ -2202,8 +1355,6 @@ C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/i
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/ioapiset.h:
 
-C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/codecvt.h:
-
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/jobapi.h:
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/ktmtypes.h:
@@ -2217,8 +1368,6 @@ C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/i
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/locale.h:
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/lzexpand.h:
-
-C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/align.h:
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/malloc.h:
 
@@ -2237,8 +1386,6 @@ C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/i
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/ole2.h:
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/mmsyscom.h:
-
-C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr_atomic.h:
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/msxml.h:
 
@@ -2282,8 +1429,6 @@ C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/i
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/pshpack4.h:
 
-C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Order.cpp:
-
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo:
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/pthread.h:
@@ -2301,8 +1446,6 @@ C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/i
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h:
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdlib_s.h:
-
-C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/aligned_buffer.h:
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sec_api/stralign_s.h:
 
@@ -2326,8 +1469,6 @@ C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/i
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/stdio.h:
 
-C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/quoted_string.h:
-
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/string.h:
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/stringapiset.h:
@@ -2338,21 +1479,13 @@ C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/i
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/sysinfoapi.h:
 
-C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/locale:
-
-C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_vector.h:
-
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/threadpoolapiset.h:
-
-C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iomanip:
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/threadpoollegacyapiset.h:
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/time.h:
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/timeapi.h:
-
-C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/sstream.tcc:
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/tvout.h:
 
@@ -2378,8 +1511,6 @@ C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/i
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/winscard.h:
 
-C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_bvector.h:
-
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/winsock.h:
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/winsock2.h:
@@ -2394,13 +1525,9 @@ C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/i
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/wtypesbase.h:
 
-C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/auto_ptr.h:
-
-C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Customer.cpp:
+C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/WinsockServer.cpp:
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.h:
-
-C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/execution_defs.h:
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.tcc:
 
@@ -2414,10 +1541,6 @@ C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-m
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets.h:
 
-C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets_nonio.h:
-
-C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_uninitialized.h:
-
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf.tcc:
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf_iterator.h:
@@ -2428,44 +1551,14 @@ C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-m
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ios:
 
+C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iostream:
+
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/istream:
 
-C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/sstream:
-
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept:
-
-C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/MenuItems.h:
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/system_error:
 
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_inline.h:
 
-C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_lockfree_defines.h:
-
-C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/messages_members.h:
-
 C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/x86_64-w64-mingw32/include/wctype.h:
-
-C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Customer.h:
-
-C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Order.h:
-
-C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Specials.h:
-
-C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Menu.cpp:
-
-C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/MenuItems.cpp:
-
-C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocated_ptr.h:
-
-C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr.h:
-
-C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/concurrence.h:
-
-C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iostream:
-
-C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/memory:
-
-C:/Users/Tig10/AppData/Local/Programs/CLion\ Nova/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_memory_defs.h:
-
-C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/WinsockServer.cpp:

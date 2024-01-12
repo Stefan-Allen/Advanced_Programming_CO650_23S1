@@ -85,36 +85,6 @@
 		<Unit filename="C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/main.cpp">
 			<Option target="Server"/>
 		</Unit>
-		<Unit filename="C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Customer.cpp">
-			<Option target="Server"/>
-		</Unit>
-		<Unit filename="C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Customer.h">
-			<Option target="Server"/>
-		</Unit>
-		<Unit filename="C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Menu.cpp">
-			<Option target="Server"/>
-		</Unit>
-		<Unit filename="C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Menu.h">
-			<Option target="Server"/>
-		</Unit>
-		<Unit filename="C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/MenuItems.cpp">
-			<Option target="Server"/>
-		</Unit>
-		<Unit filename="C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/MenuItems.h">
-			<Option target="Server"/>
-		</Unit>
-		<Unit filename="C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Order.cpp">
-			<Option target="Server"/>
-		</Unit>
-		<Unit filename="C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Order.h">
-			<Option target="Server"/>
-		</Unit>
-		<Unit filename="C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Specials.cpp">
-			<Option target="Server"/>
-		</Unit>
-		<Unit filename="C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Specials.h">
-			<Option target="Server"/>
-		</Unit>
 		<Unit filename="C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/WinsockServer.cpp">
 			<Option target="Server"/>
 		</Unit>
