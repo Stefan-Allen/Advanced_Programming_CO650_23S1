@@ -22,3 +22,7 @@
 3	707	7267525666792188	CMakeFiles/Client.dir/src/Source/MenuItems.cpp.obj	b55993cf03033e6d
 10	267	7267493298344052	CMakeFiles/Client.dir/src/Source/Customer.cpp.obj	eee5a5bb0f695942
 3	345	7267521783334275	CMakeFiles/Client.dir/src/Source/DiscountedOrder.cpp.obj	1f50cb3552369bc1
+12	453	7270849165465367	CMakeFiles/Client.dir/src/Source/RegularOrder.cpp.obj	d050bf73dc9205f6
+7	463	7270849165570320	CMakeFiles/Client.dir/src/Source/Order.cpp.obj	4bb199e83ed857f5
+3	1568	7270849176617657	CMakeFiles/Client.dir/main.cpp.obj	9adf27f590f0228c
+1568	1761	7270849178526077	Client.exe	74ffbf2d0148b3c7

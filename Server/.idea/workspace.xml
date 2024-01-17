@@ -21,44 +21,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44de1b4d-f582-4d8a-8617-b6e5723f68ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Client/src/Headers/Order.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Client/src/Headers/RegularOrder.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Client/src/Headers/Specials.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Client/src/Headers/WinsockClient.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Client/src/Source/RegularOrder.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/cmake-build-debug/.cmake/api/v1/reply/cache-v2-9cbad6da79392c62b274.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-ea6a5fbb03435e833e42.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/cmake-build-debug/.cmake/api/v1/reply/index-2024-01-09T04-31-10-0117.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/cmake-build-debug/.cmake/api/v1/reply/target-Client-Debug-ee1d1aad222cf277905c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/.vs/Client/FileContentIndex/5aa12810-df94-4d53-b7ce-6478c1d8abf5.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/.vs/Client/FileContentIndex/8e4968c1-4225-430a-94b8-9a14e437c691.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/.vs/Client/FileContentIndex/c323c773-2001-4699-9b6f-4db75246b44c.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/.vs/Client/v17/.wsuo" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/.vs/Client/v17/.wsuo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/.vs/Client/v17/DocumentLayout.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/.vs/Client/v17/DocumentLayout.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/.vs/Client/v17/Preview/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/.vs/Client/v17/Preview/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/.vs/Client/v17/Preview/ipch/AutoPCH/92452568711d9fc1/MAIN.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/.vs/Client/v17/Preview/ipch/AutoPCH/92452568711d9fc1/MAIN.ipch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/.vs/VSWorkspaceState.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/.vs/VSWorkspaceState.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/.vs/slnx.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/.vs/slnx.sqlite" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Client/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Client/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/cmake-build-debug/CMakeFiles/Client.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/cmake-build-debug/CMakeFiles/Client.dir/main.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Client/cmake-build-debug/Client.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/cmake-build-debug/Client.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Client/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/src/Customer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/Source/Customer.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/src/Customer.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/Headers/Customer.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/src/Menu.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/Source/Menu.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/src/Menu.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/Headers/Menu.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/src/MenuItems.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/Source/MenuItems.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/src/MenuItems.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/Headers/MenuItems.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/src/Order.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/Source/Order.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/src/Order.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/src/Specials.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/Source/Specials.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/src/Specials.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/src/WinsockClient.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/Source/WinsockClient.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/src/WinsockClient.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-01-10T09-32-40-0824.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Server.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Server.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +77,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Client",
+    "last_opened_file_path": "C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -119,11 +96,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Server" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Server" TARGET_NAME="Server" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Server" RUN_TARGET_NAME="Server">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -148,6 +120,7 @@
       <workItem from="1704837794363" duration="188000" />
       <workItem from="1704879103771" duration="700000" />
       <workItem from="1705034632874" duration="5737000" />
+      <workItem from="1705381694967" duration="202000" />
     </task>
     <servers />
   </component>
