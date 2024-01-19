@@ -19,6 +19,7 @@ add_executable(Client
         src/Headers/WinsockClient.h
         src/Source/RegularOrder.cpp
         src/Headers/RegularOrder.h
+        src/Headers/Exception.h
 )
 
 target_link_libraries(Client PRIVATE -lwsock32 -lws2_32)

@@ -21,21 +21,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44de1b4d-f582-4d8a-8617-b6e5723f68ae" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Client/src/Headers/Exception.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/.vs/Client/FileContentIndex/5aa12810-df94-4d53-b7ce-6478c1d8abf5.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/.vs/Client/FileContentIndex/8e4968c1-4225-430a-94b8-9a14e437c691.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/.vs/Client/FileContentIndex/c323c773-2001-4699-9b6f-4db75246b44c.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/.vs/Client/v17/.wsuo" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/.vs/Client/v17/.wsuo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/.vs/Client/v17/DocumentLayout.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/.vs/Client/v17/DocumentLayout.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/.vs/Client/v17/Preview/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/.vs/Client/v17/Preview/Browse.VC.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/.vs/Client/v17/Preview/ipch/AutoPCH/92452568711d9fc1/MAIN.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/.vs/Client/v17/Preview/ipch/AutoPCH/92452568711d9fc1/MAIN.ipch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/.vs/VSWorkspaceState.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/.vs/VSWorkspaceState.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Client/.vs/slnx.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/.vs/slnx.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-7b270f9a88508d21c578.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/cmake-build-debug/.cmake/api/v1/reply/index-2024-01-12T08-50-06-0608.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/cmake-build-debug/.cmake/api/v1/reply/target-Client-Debug-65aed924cbb64632f6db.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Client/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Client/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Client/cmake-build-debug/Client.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/cmake-build-debug/Client.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Client/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/src/Headers/Order.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/Headers/Order.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/src/Source/Customer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/Source/Customer.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/src/Source/WinsockClient.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/Source/WinsockClient.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Server.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Server.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,28 +68,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "CMake Application.Server.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.RadMigrateCodeStyle": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.customizations",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;CMake Application.Server.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.customizations&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Server\src" />
@@ -121,6 +124,8 @@
       <workItem from="1704879103771" duration="700000" />
       <workItem from="1705034632874" duration="5737000" />
       <workItem from="1705381694967" duration="202000" />
+      <workItem from="1705622214299" duration="15000" />
+      <workItem from="1705622815567" duration="2539000" />
     </task>
     <servers />
   </component>

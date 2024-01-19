@@ -1,5 +1,3 @@
-Made using Clion, CMakeLists.txt is the configuration file used by CMake to build the project, CLion triggers the CMake to generates native build files (e.g., Makefiles on Unix-like systems, Visual Studio project files on Windows) based on the information in CMakeLists.txt.
-
 // Abstraction: Used throughout the program, notably in the MenuItems class, which abstracts the details of handling menus, specials, customers, and orders.
 
 // Encapsulation: Utilized in various classes, such as Customer, Menu, MenuItems, Order, and its subclasses, where private data members and getter methods encapsulate the internal state of objects.
@@ -20,9 +18,12 @@ Made using Clion, CMakeLists.txt is the configuration file used by CMake to buil
 
 // Functional Pointers: The OrderProcessor is a functional pointer used in the MenuItems class for processing orders.
 
-// Exception Handling using Exception Classes (Inheriting from Exception): Exception handling is implemented with the OrderException class, inheriting from std::exception. Example: try-catch block in PlaceOrder method of MenuItems.
+// Exception Handling using Exception Classes: The code incorporates a custom Exception class, derived from std::exception, for handling errors in a more structured manner. An example can be seen in the try-catch block within the PlaceOrder method of MenuItems. This Exception class allows for encapsulation of error messages and facilitates a cleaner and more organized approach to error handling throughout the code.
 
 // Winsock Client: The WinsockClient class is explicitly used for communication with a server using Winsock. Example: WinsockClient is used for establishing connections, sending, and receiving data in the main function.
+
+// Winsock Server: The server-side functionality is encapsulated within the WinsockServer class. This class handles the initialization of the Winsock library, binding the server socket to a specific port, and listening for incoming connections. Upon accepting a connection, the server receives and processes data from the connected client, demonstrating a basic server implementation using Winsock.
+
 
 CLIENT CONSOLE 
 

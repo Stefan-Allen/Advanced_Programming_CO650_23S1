@@ -1,29 +1,31 @@
 #include "../Headers/WinsockClient.h"
+#include "../Headers/Exception.h"
+
 #include <iostream>
 
-// Constructors, Used for initializing the state of WinsockClient.
+WSADATA wsaData;
+
 WinsockClient::WinsockClient(const std::string &serverIp, int serverPort)
     : serverIp(serverIp), serverPort(serverPort), clientSocket(INVALID_SOCKET) {
     InitializeWinsock();
 }
 
-// Destructor, Used close the connection when WinsockClient objects are destroyed.
 WinsockClient::~WinsockClient() {
-    CloseConnection();
-    WSACleanup();
+    try {
+        CloseConnection();
+        WSACleanup();
+    } catch (const Exception& ex) {
+        std::cerr << "Exception caught in WinsockClient destructor: " << ex.what() << std::endl;
+    }
 }
 
-// Abstraction, Initializes Winsock, abstracting the details of the Winsock library.
 bool WinsockClient::InitializeWinsock() {
-    WSADATA wsaData;
     if (WSAStartup(MAKEWORD(2, 2), &wsaData) != 0) {
-        std::cerr << "Error initializing Winsock." << std::endl;
-        return false;
+        throw Exception("Error initializing Winsock.", WSAGetLastError());
     }
     return true;
 }
 
-// Abstraction, Establishes a connection using provided IP address and port.
 bool WinsockClient::ConnectToServer() {
     struct sockaddr_in serverAddress{};
     serverAddress.sin_family = AF_INET;
@@ -32,45 +34,36 @@ bool WinsockClient::ConnectToServer() {
 
     clientSocket = socket(AF_INET, SOCK_STREAM, 0);
     if (clientSocket == INVALID_SOCKET) {
-        std::cerr << "Error creating socket: " << WSAGetLastError() << std::endl;
-        return false;
+        throw Exception("Error creating socket.", WSAGetLastError());
     }
 
-    if (connect(clientSocket, reinterpret_cast<struct sockaddr *>(&serverAddress), sizeof(serverAddress)) ==
-        SOCKET_ERROR) {
-        std::cerr << "Error connecting to server: " << WSAGetLastError() << std::endl;
-        closesocket(clientSocket);
-        return false;
+    if (connect(clientSocket, reinterpret_cast<struct sockaddr*>(&serverAddress), sizeof(serverAddress)) == SOCKET_ERROR) {
+        throw Exception("Error connecting to server.", WSAGetLastError());
     }
 
     return true;
 }
 
-// Abstraction, Sends data to the connected server.
 bool WinsockClient::SendData(const std::string &data) {
     int result = send(clientSocket, data.c_str(), data.size(), 0);
     if (result == SOCKET_ERROR) {
-        std::cerr << "Error sending data: " << WSAGetLastError() << std::endl;
-        return false;
+        throw Exception("Error sending data.", WSAGetLastError());
     }
     return true;
 }
 
-// Abstraction, Sends order message to the server.
 bool WinsockClient::SendOrder(const std::string &itemName, int quantity, const std::string &customerName) {
     std::string orderMessage = "Item name:" " " + itemName + ", " " Quantity: " + std::to_string(quantity) + ", " " " +
                                customerName;
 
     int result = send(clientSocket, orderMessage.c_str(), orderMessage.size(), 0);
     if (result == SOCKET_ERROR) {
-        std::cerr << "Error sending order: " << WSAGetLastError() << std::endl;
-        return false;
+        throw Exception("Error sending order.", WSAGetLastError());
     }
 
     return true;
 }
 
-// Abstractiom, Receives data from the connected server.
 std::string WinsockClient::ReceiveData() {
     const int bufferSize = 1024;
     char buffer[bufferSize];
@@ -78,14 +71,12 @@ std::string WinsockClient::ReceiveData() {
 
     int bytesRead = recv(clientSocket, buffer, bufferSize - 1, 0);
     if (bytesRead == SOCKET_ERROR) {
-        std::cerr << "Error receiving data: " << WSAGetLastError() << std::endl;
-        return "";
+        throw Exception("Error receiving data.", WSAGetLastError());
     }
 
     return std::string(buffer, bytesRead);
 }
 
-// Abstraction, Closes the connection.
 void WinsockClient::CloseConnection() {
     if (clientSocket != INVALID_SOCKET) {
         closesocket(clientSocket);

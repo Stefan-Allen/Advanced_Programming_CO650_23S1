@@ -2,8 +2,7 @@
 #include "../Headers/Order.h"
 
 // Constructor, Initialize name and email members.
-Customer::Customer(const std::string &name, const std::string &email)
-    : name(name), email(email) {
+Customer::Customer(const std::string &name, const std::string &email): name(name), email(email) {
 }
 
 // Encapsulation, Getter method for name.

@@ -53,10 +53,12 @@ int main() {
         // Orders for customers sent to the server
         std::string customerOrders = menu_items.DisplayOrders(customer1);
 
-        if (winsockClient.SendData(customerOrders)) {
-            std::cout << "------------------------\nOrders sent to the server successfully.\n";
-        } else {
-            std::cerr << "Error sending orders to the server" << std::endl;
+        try {
+            if (winsockClient.SendData(customerOrders)) {
+                std::cout << "------------------------\nOrders sent to the server successfully.\n";
+            }
+        } catch (const Exception &ex) {
+            std::cerr << "Error sending orders to the server: " << ex.what() << std::endl;
         }
 
         // Connection closed

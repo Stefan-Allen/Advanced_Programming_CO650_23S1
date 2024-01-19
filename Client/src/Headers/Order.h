@@ -4,6 +4,8 @@
 #include <vector>
 #include <string>
 
+#include "Exception.h"
+
 // Forward declarations
 class Menu;
 class Specials;
@@ -25,12 +27,11 @@ public:
     static std::vector<Order>& GetOrders();
 
     // Exception Handling using Exception Classes (Inheriting from Exception)
-    class OrderException : public std::exception {
+    class OrderException : public Exception {
     public:
-        const char *what() const noexcept override {
-            return "OrderException: An exception occurred while processing an order.";
-        }
+        using Exception::Exception; // Inherit constructors from Exception
     };
+
     // Polymorphic behavior
     virtual double CalculateTotal() const;
 
