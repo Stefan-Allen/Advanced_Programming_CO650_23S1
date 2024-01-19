@@ -1,13 +1,2 @@
-#
-CMAKE
-generated
-DO
-NOT
-EDIT!
-#
-Timestamp
-file
-for compiler generated
-dependencies
-management
-for Server.
+# CMAKE generated file: DO NOT EDIT!
+# Timestamp file for compiler generated dependencies management for Server.

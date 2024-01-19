@@ -10,17 +10,21 @@
 std::vector<Order> Order::orders;
 
 Order::Order(const Menu *menu, const Customer *customer, int quantity, double discount)
-    : menu(menu), specials(nullptr), customer(customer), quantity(quantity), discount(discount), isMenuOrder(true) {}
+    : menu(menu), specials(nullptr), customer(customer), quantity(quantity), discount(discount), isMenuOrder(true) {
+}
 
 Order::Order(const Specials *specials, const Customer *customer, int quantity, double discount)
-    : menu(nullptr), specials(specials), customer(customer), quantity(quantity), discount(discount), isMenuOrder(false) {}
+    : menu(nullptr), specials(specials), customer(customer), quantity(quantity), discount(discount),
+      isMenuOrder(false) {
+}
 
 Order::Order(const RegularOrder *regularOrder)
     : menu(regularOrder->menu), specials(nullptr), customer(regularOrder->customer),
-      quantity(regularOrder->quantity), discount(regularOrder->discount), isMenuOrder(true) {}
+      quantity(regularOrder->quantity), discount(regularOrder->discount), isMenuOrder(true) {
+}
 
 // Static function to access the orders vector
-std::vector<Order>& Order::GetOrders() {
+std::vector<Order> &Order::GetOrders() {
     return orders;
 }
 
@@ -41,7 +45,7 @@ const Customer *Order::GetCustomer() const {
 void Order::DisplayOrders(const Customer &customer) const {
     std::cout << "Orders for Customer: " << customer.GetName() << "\n";
 
-    for (const auto &order : orders) {
+    for (const auto &order: orders) {
         double total = order.CalculateTotal(); // Polymorphic behavior
         std::cout << order.DisplayOrderString(); // Display order details
         std::cout << "Total: $" << std::to_string(total) << "\n";

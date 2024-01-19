@@ -24,7 +24,7 @@ public:
     Order(const RegularOrder *regularOrder);
 
     // Static Members
-    static std::vector<Order>& GetOrders();
+    static std::vector<Order> &GetOrders();
 
     // Exception Handling using Exception Classes (Inheriting from Exception)
     class OrderException : public Exception {

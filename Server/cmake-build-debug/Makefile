@@ -47,10 +47,10 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "C:\Users\Tig10\AppData\Local\Programs\CLion Nova\bin\cmake\win\x64\bin\cmake.exe"
+CMAKE_COMMAND = C:\Users\Tig10\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe
 
 # The command to remove a file.
-RM = "C:\Users\Tig10\AppData\Local\Programs\CLion Nova\bin\cmake\win\x64\bin\cmake.exe" -E rm -f
+RM = C:\Users\Tig10\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -67,7 +67,7 @@ CMAKE_BINARY_DIR = C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --cyan "No interactive CMake dialog available..."
-	"C:\Users\Tig10\AppData\Local\Programs\CLion Nova\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available."
+	C:\Users\Tig10\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E echo "No interactive CMake dialog available."
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -77,7 +77,7 @@ edit_cache/fast: edit_cache
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --cyan "Running CMake to regenerate build system..."
-	"C:\Users\Tig10\AppData\Local\Programs\CLion Nova\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	C:\Users\Tig10\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -152,30 +152,6 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Server.dir\build.make CMakeFiles/Server.dir/main.cpp.s
 .PHONY : main.cpp.s
 
-src/WinsockServer.obj: src/WinsockServer.cpp.obj
-.PHONY : src/WinsockServer.obj
-
-# target to build an object file
-src/WinsockServer.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Server.dir\build.make CMakeFiles/Server.dir/src/WinsockServer.cpp.obj
-.PHONY : src/WinsockServer.cpp.obj
-
-src/WinsockServer.i: src/WinsockServer.cpp.i
-.PHONY : src/WinsockServer.i
-
-# target to preprocess a source file
-src/WinsockServer.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Server.dir\build.make CMakeFiles/Server.dir/src/WinsockServer.cpp.i
-.PHONY : src/WinsockServer.cpp.i
-
-src/WinsockServer.s: src/WinsockServer.cpp.s
-.PHONY : src/WinsockServer.s
-
-# target to generate assembly for a file
-src/WinsockServer.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Server.dir\build.make CMakeFiles/Server.dir/src/WinsockServer.cpp.s
-.PHONY : src/WinsockServer.cpp.s
-
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -188,9 +164,6 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
-	@echo ... src/WinsockServer.obj
-	@echo ... src/WinsockServer.i
-	@echo ... src/WinsockServer.s
 .PHONY : help
 
 

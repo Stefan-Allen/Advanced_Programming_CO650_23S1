@@ -11,10 +11,10 @@
 				<Option working_dir="C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/Users/Tig10/AppData/Local/Programs/CLIONN~1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/Users/Tig10/AppData/Local/Programs/CLIONN~1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Users/Tig10/AppData/Local/Programs/CLIONN~1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Users/Tig10/AppData/Local/Programs/CLIONN~1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Users/Tig10/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Users/Tig10/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/Tig10/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/Tig10/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Server">
@@ -24,19 +24,19 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="C:/Users/Tig10/AppData/Local/Programs/CLion Nova/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
-					<Add directory="C:/Users/Tig10/AppData/Local/Programs/CLion Nova/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
-					<Add directory="C:/Users/Tig10/AppData/Local/Programs/CLion Nova/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
-					<Add directory="C:/Users/Tig10/AppData/Local/Programs/CLion Nova/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
-					<Add directory="C:/Users/Tig10/AppData/Local/Programs/CLion Nova/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
-					<Add directory="C:/Users/Tig10/AppData/Local/Programs/CLion Nova/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
-					<Add directory="C:/Users/Tig10/AppData/Local/Programs/CLion Nova/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="C:/Users/Tig10/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="C:/Users/Tig10/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/Tig10/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="C:/Users/Tig10/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/Tig10/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/Tig10/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/Tig10/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/Users/Tig10/AppData/Local/Programs/CLIONN~1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 Server"/>
-					<CompileFile command="C:/Users/Tig10/AppData/Local/Programs/CLIONN~1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Users/Tig10/AppData/Local/Programs/CLIONN~1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Users/Tig10/AppData/Local/Programs/CLIONN~1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Users/Tig10/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 Server"/>
+					<CompileFile command="C:/Users/Tig10/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/Tig10/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/Tig10/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Server/fast">
@@ -46,49 +46,46 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="C:/Users/Tig10/AppData/Local/Programs/CLion Nova/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
-					<Add directory="C:/Users/Tig10/AppData/Local/Programs/CLion Nova/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
-					<Add directory="C:/Users/Tig10/AppData/Local/Programs/CLion Nova/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
-					<Add directory="C:/Users/Tig10/AppData/Local/Programs/CLion Nova/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
-					<Add directory="C:/Users/Tig10/AppData/Local/Programs/CLion Nova/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
-					<Add directory="C:/Users/Tig10/AppData/Local/Programs/CLion Nova/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
-					<Add directory="C:/Users/Tig10/AppData/Local/Programs/CLion Nova/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="C:/Users/Tig10/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="C:/Users/Tig10/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/Tig10/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="C:/Users/Tig10/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/Tig10/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/Tig10/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/Tig10/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/Users/Tig10/AppData/Local/Programs/CLIONN~1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 Server/fast"/>
-					<CompileFile command="C:/Users/Tig10/AppData/Local/Programs/CLIONN~1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Users/Tig10/AppData/Local/Programs/CLIONN~1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Users/Tig10/AppData/Local/Programs/CLIONN~1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Users/Tig10/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 Server/fast"/>
+					<CompileFile command="C:/Users/Tig10/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/Tig10/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/Tig10/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
 				<Option working_dir="C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/Users/Tig10/AppData/Local/Programs/CLIONN~1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/Users/Tig10/AppData/Local/Programs/CLIONN~1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Users/Tig10/AppData/Local/Programs/CLIONN~1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Users/Tig10/AppData/Local/Programs/CLIONN~1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Users/Tig10/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Users/Tig10/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/Tig10/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/Tig10/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
 				<Option working_dir="C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/Users/Tig10/AppData/Local/Programs/CLIONN~1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/Users/Tig10/AppData/Local/Programs/CLIONN~1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Users/Tig10/AppData/Local/Programs/CLIONN~1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Users/Tig10/AppData/Local/Programs/CLIONN~1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Users/Tig10/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Users/Tig10/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/Tig10/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/Tig10/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
 		<Unit filename="C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/main.cpp">
 			<Option target="Server"/>
 		</Unit>
-		<Unit filename="C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/WinsockServer.cpp">
-			<Option target="Server"/>
-		</Unit>
-		<Unit filename="C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/WinsockServer.h">
+		<Unit filename="C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/Headers/WinsockServer.h">
 			<Option target="Server"/>
 		</Unit>
 		<Unit filename="C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/CMakeLists.txt">

@@ -1,6 +1,7 @@
 #include <chrono>
 #include <thread>
-#include "src/WinsockServer.h"
+#include "src/Headers/WinsockServer.h"
+#include "src/Source/WinsockServer.cpp"
 
 int main() {
     // Abstract process of running a Winsock server.

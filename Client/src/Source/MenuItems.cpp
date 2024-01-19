@@ -93,26 +93,7 @@ void MenuItems::PlaceOrder(const Specials &specials, const Customer &customer, i
     }
 }
 
-// Method to display the inventory (menus and specials).
-void MenuItems::DisplayInventory() const {
-    std::cout << "------------------------\n";
-    std::cout << "Main Menu." << std::endl;
-    std::cout << "------------------------" << std::endl;
 
-    for (const auto &menu: menus) {
-        std::cout << menu->GetInfo() << std::endl;
-    }
-
-    std::cout << "------------------------\n";
-    std::cout << "Today's Specials." << std::endl;
-    std::cout << "------------------------" << std::endl;
-
-    for (const auto &specials: specialItems) {
-        std::cout << specials->GetInfo() << std::endl;
-    }
-
-    std::cout << "------------------------\n";
-}
 
 // Static member to keep track of the total number of orders.
 int MenuItems::GetTotalOrders() {

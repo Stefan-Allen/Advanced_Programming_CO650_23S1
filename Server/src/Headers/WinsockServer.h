@@ -4,6 +4,7 @@
 #include <winsock2.h>
 #include <string>
 
+
 class WinsockServer {
 public:
     // Constructors, initializing the state of WinsockServer.

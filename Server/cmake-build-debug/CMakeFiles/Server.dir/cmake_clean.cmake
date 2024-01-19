@@ -1,8 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Server.dir/main.cpp.obj"
   "CMakeFiles/Server.dir/main.cpp.obj.d"
-  "CMakeFiles/Server.dir/src/WinsockServer.cpp.obj"
-  "CMakeFiles/Server.dir/src/WinsockServer.cpp.obj.d"
   "Server.exe"
   "Server.exe.manifest"
   "Server.pdb"

@@ -43,10 +43,10 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "C:\Users\Tig10\AppData\Local\Programs\CLion Nova\bin\cmake\win\x64\bin\cmake.exe"
+CMAKE_COMMAND = C:\Users\Tig10\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe
 
 # The command to remove a file.
-RM = "C:\Users\Tig10\AppData\Local\Programs\CLion Nova\bin\cmake\win\x64\bin\cmake.exe" -E rm -f
+RM = C:\Users\Tig10\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -72,45 +72,29 @@ CMakeFiles/Server.dir/main.cpp.obj: CMakeFiles/Server.dir/flags.make
 CMakeFiles/Server.dir/main.cpp.obj: C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/main.cpp
 CMakeFiles/Server.dir/main.cpp.obj: CMakeFiles/Server.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Server\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Server.dir/main.cpp.obj"
-	C:\Users\Tig10\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Server.dir/main.cpp.obj -MF CMakeFiles\Server.dir\main.cpp.obj.d -o CMakeFiles\Server.dir\main.cpp.obj -c C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Server\main.cpp
+	C:\Users\Tig10\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Server.dir/main.cpp.obj -MF CMakeFiles\Server.dir\main.cpp.obj.d -o CMakeFiles\Server.dir\main.cpp.obj -c C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Server\main.cpp
 
 CMakeFiles/Server.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Server.dir/main.cpp.i"
-	C:\Users\Tig10\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Server\main.cpp > CMakeFiles\Server.dir\main.cpp.i
+	C:\Users\Tig10\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Server\main.cpp > CMakeFiles\Server.dir\main.cpp.i
 
 CMakeFiles/Server.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Server.dir/main.cpp.s"
-	C:\Users\Tig10\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Server\main.cpp -o CMakeFiles\Server.dir\main.cpp.s
-
-CMakeFiles/Server.dir/src/WinsockServer.cpp.obj: CMakeFiles/Server.dir/flags.make
-CMakeFiles/Server.dir/src/WinsockServer.cpp.obj: C:/Users/Tig10/Documents/GitHub/Advanced_Programming_CO650_23S1/Server/src/WinsockServer.cpp
-CMakeFiles/Server.dir/src/WinsockServer.cpp.obj: CMakeFiles/Server.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Server\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Server.dir/src/WinsockServer.cpp.obj"
-	C:\Users\Tig10\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Server.dir/src/WinsockServer.cpp.obj -MF CMakeFiles\Server.dir\src\WinsockServer.cpp.obj.d -o CMakeFiles\Server.dir\src\WinsockServer.cpp.obj -c C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Server\src\WinsockServer.cpp
-
-CMakeFiles/Server.dir/src/WinsockServer.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Server.dir/src/WinsockServer.cpp.i"
-	C:\Users\Tig10\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Server\src\WinsockServer.cpp > CMakeFiles\Server.dir\src\WinsockServer.cpp.i
-
-CMakeFiles/Server.dir/src/WinsockServer.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Server.dir/src/WinsockServer.cpp.s"
-	C:\Users\Tig10\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Server\src\WinsockServer.cpp -o CMakeFiles\Server.dir\src\WinsockServer.cpp.s
+	C:\Users\Tig10\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Server\main.cpp -o CMakeFiles\Server.dir\main.cpp.s
 
 # Object files for target Server
 Server_OBJECTS = \
-"CMakeFiles/Server.dir/main.cpp.obj" \
-"CMakeFiles/Server.dir/src/WinsockServer.cpp.obj"
+"CMakeFiles/Server.dir/main.cpp.obj"
 
 # External object files for target Server
 Server_EXTERNAL_OBJECTS =
 
 Server.exe: CMakeFiles/Server.dir/main.cpp.obj
-Server.exe: CMakeFiles/Server.dir/src/WinsockServer.cpp.obj
 Server.exe: CMakeFiles/Server.dir/build.make
 Server.exe: CMakeFiles/Server.dir/linkLibs.rsp
 Server.exe: CMakeFiles/Server.dir/objects1.rsp
 Server.exe: CMakeFiles/Server.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Server\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Server.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\Tig10\Documents\GitHub\Advanced_Programming_CO650_23S1\Server\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Server.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Server.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
